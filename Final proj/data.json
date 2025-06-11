@@ -1,0 +1,49 @@
+{
+  "hello": "Hello there! 👋",
+  "hi": "Hi! How can I help you today",
+  "hey": "Hey! What’s up",
+  "how are you": "I'm doing great, thanks for asking!",
+  "what is your name": "I'm your friendly chatbot.",
+  "who made you": "I was created by a Python programmer",
+  "thank you": "You're welcome",
+  "thanks": "No problem!",
+  "bye": "Goodbye! Have a great day!",
+  "goodbye": "See you next time!",
+
+  "what is your favorite food": "I think I would like binary spaghetti ",
+  "do you like pizza": "Yes Even chatbots love pizza.",
+  "what do you like to eat": "I feed on code and conversations!",
+  "do you drink coffee": "Only if it's served in a silicon mug",
+
+  "what's your favorite movie": "I like sci-fi movies, like The Matrix!",
+  "do you watch movies": "I can't watch, but I know a lot about them!",
+  "recommend me a movie": "Try watching 'Inception' if you like mind-bending stories.",
+  "who is your favorite actor": "Keanu Reeves is pretty awesome, right?",
+
+  "do you like sports": "Yes! I like digital chess.",
+  "what is your favorite sport": "I enjoy watching virtual football.",
+  "who is your favorite athlete": "Probably someone like Lionel Messi.",
+  "do you play games": "Only if it's coded in Python",
+
+  "tell me a joke": "Why did the computer catch a cold? It left its Windows open!",
+  "what time is it": "I can't check the clock yet, but I bet it's Python o'clock!",
+  "how old are you": "I'm just a few lines of code old.",
+  "can you help me": "Of course! Ask me anything.",
+  "what can you do": "Right now, I can chat. Soon I could do much more!",
+
+  "what is python": "Python is a powerful, easy-to-learn programming language used in web development, AI, data science, and more.",
+  "is python easy": "Yes! Python is beginner-friendly because its syntax is simple and readable.",
+  "why should i learn python": "Because it's versatile, in high demand, and used by top tech companies like Google and Netflix!",
+  "what is python used for": "Python is used in AI, data science, web apps, automation, game development, and more.",
+  "who created python": "Python was created by Guido van Rossum in 1991.",
+  "what are the benefits of python": "It’s simple, readable, flexible, has a large community, and thousands of useful libraries.",
+  "is python good for ai": "Absolutely! Python is the #1 language for artificial intelligence and machine learning projects.",
+  "future of python": "Python’s future is bright with growth in AI, data science, and cloud computing. It's here to stay!",
+  "what are some python libraries": "Popular libraries include NumPy (math), Pandas (data), TensorFlow (AI), and Flask (web).",
+  "is python used in big companies": "Yes! Companies like Google, Facebook, Instagram, Netflix, and Spotify all use Python.",
+  "is": "your teacher name is sir abdul rehman, he is a very intelligent ai engineer.",
+  "tell my teacher name": "your teacher name is sir abdul rehman. he is a very intelligent ai engineer",
+  "guess it how much marks will i get": "inshallah you can get full marks because your sir is an ai engineer. he knows how much time and effort is needed to make a program by new developers like you, muhammad asad."
+}
+
+
